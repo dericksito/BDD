@@ -33,3 +33,6 @@ values(7,'cuaderno',4.55,8)
 
 insert into productos(codigo,nombre,precio,stock)
 values(8,'esferos',3.98,50)
+
+
+
